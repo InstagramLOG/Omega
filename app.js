@@ -4,14 +4,14 @@
 ///Edit Under This only
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBGe_KBrjoI-108fSVUy7qwCP7U-zPfeo4",
-  authDomain: "instagram-a9aba.firebaseapp.com",
-  databaseURL: "https://instagram-a9aba.firebaseio.com",
-  projectId: "instagram-a9aba",
-  storageBucket: "instagram-a9aba.appspot.com",
-  messagingSenderId: "609853575645",
-  appId: "1:609853575645:web:f35416c335812a46916634",
-  measurementId: "G-8TDXZ7TYB8"
+  apiKey: "AIzaSyB1WW_TB6kJT_3azSLmdWolwawBaSqVW2U",
+  authDomain: "chirag-78979.firebaseapp.com",
+  databaseURL: "https://chirag-78979.firebaseio.com",
+  projectId: "chirag-78979",
+  storageBucket: "chirag-78979.appspot.com",
+  messagingSenderId: "50016280523",
+  appId: "1:50016280523:web:6c59c8f34dd3c9860d604e",
+  measurementId: "G-WQ0DEVPM9F"
 };
      
  
